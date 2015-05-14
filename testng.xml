@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PB.com Smoke Testing">
+
+
+
+
+<test name="Homepage Test">
+    <classes>
+        <class name="Homepage.java" ></class>  
+    </classes>
+</test>
+
+<test name="Brand Story Page Test">
+    <classes>
+        <class name="BrandStory.java" ></class>  
+    </classes>
+</test>
+
+
+</suite>

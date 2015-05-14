@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80101" started-at="2015-05-14T18:27:15Z" finished-at="2015-05-14T18:28:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80101" started-at="2015-05-14T18:27:15Z" finished-at="2015-05-14T18:28:35Z">
+      <class name="com.digitaslbi.PB.BrandStory">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.digitaslbi.PB.BrandStory@79a55f23]" name="setUp" is-config="true" duration-ms="2906" started-at="2015-05-14T14:27:15Z" finished-at="2015-05-14T14:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC1_testBrandStory()[pri:0, instance:com.digitaslbi.PB.BrandStory@79a55f23]" name="TC1_testBrandStory" duration-ms="21455" started-at="2015-05-14T14:27:18Z" finished-at="2015-05-14T14:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_testBrandStory -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitaslbi.PB.BrandStory@79a55f23]" name="tearDown" is-config="true" duration-ms="65" started-at="2015-05-14T14:27:39Z" finished-at="2015-05-14T14:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitaslbi.PB.BrandStory -->
+      <class name="com.digitaslbi.PB.Homepage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="setUp" is-config="true" duration-ms="6273" started-at="2015-05-14T14:27:39Z" finished-at="2015-05-14T14:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC1_testPBlogo()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="TC1_testPBlogo" duration-ms="1287" started-at="2015-05-14T14:27:46Z" finished-at="2015-05-14T14:27:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_testPBlogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="tearDown" is-config="true" duration-ms="187" started-at="2015-05-14T14:27:47Z" finished-at="2015-05-14T14:27:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="setUp" is-config="true" duration-ms="3394" started-at="2015-05-14T14:27:47Z" finished-at="2015-05-14T14:27:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC2_testHeaderNavigationOptions()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="TC2_testHeaderNavigationOptions" duration-ms="14332" started-at="2015-05-14T14:27:50Z" finished-at="2015-05-14T14:28:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2_testHeaderNavigationOptions -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="tearDown" is-config="true" duration-ms="197" started-at="2015-05-14T14:28:05Z" finished-at="2015-05-14T14:28:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="setUp" is-config="true" duration-ms="4075" started-at="2015-05-14T14:28:05Z" finished-at="2015-05-14T14:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC3_testMenuIcon()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="TC3_testMenuIcon" duration-ms="1685" started-at="2015-05-14T14:28:09Z" finished-at="2015-05-14T14:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3_testMenuIcon -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="tearDown" is-config="true" duration-ms="390" started-at="2015-05-14T14:28:11Z" finished-at="2015-05-14T14:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="setUp" is-config="true" duration-ms="3302" started-at="2015-05-14T14:28:11Z" finished-at="2015-05-14T14:28:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC4_testBrandStoryCTA()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="TC4_testBrandStoryCTA" duration-ms="1663" started-at="2015-05-14T14:28:14Z" finished-at="2015-05-14T14:28:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4_testBrandStoryCTA -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="tearDown" is-config="true" duration-ms="194" started-at="2015-05-14T14:28:16Z" finished-at="2015-05-14T14:28:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="setUp" is-config="true" duration-ms="5703" started-at="2015-05-14T14:28:16Z" finished-at="2015-05-14T14:28:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC5_testHomepageCategoryNavigation()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="TC5_testHomepageCategoryNavigation" duration-ms="12691" started-at="2015-05-14T14:28:22Z" finished-at="2015-05-14T14:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5_testHomepageCategoryNavigation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitaslbi.PB.Homepage@46116f2]" name="tearDown" is-config="true" duration-ms="279" started-at="2015-05-14T14:28:35Z" finished-at="2015-05-14T14:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitaslbi.PB.Homepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
