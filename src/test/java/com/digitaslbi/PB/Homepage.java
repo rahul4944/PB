@@ -74,7 +74,7 @@ public class Homepage {
     // Validate Header Navigation Options
     
     driver.findElement(By.linkText("SHOP")).click();
-    System.out.println("Opening FF Browser");
+    System.out.println("My third git commit");
     driver.findElement(By.linkText("PB Home")).click();
     driver.findElement(By.linkText("MY ACCOUNT")).click();
     driver.findElement(By.cssSelector("img[alt=\"Pitney Bowes Logo\"]")).click();
