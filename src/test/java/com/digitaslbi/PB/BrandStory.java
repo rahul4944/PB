@@ -64,7 +64,6 @@ public class BrandStory {
 	 // Validate all tool-tip
 
     driver.findElement(By.linkText("SEE HOW")).click();
-    System.out.println("Opening FF Browser");
     Thread.sleep(3000);
     driver.findElement(By.cssSelector("#nav-2 > div.dot")).click();
     Thread.sleep(2000);
